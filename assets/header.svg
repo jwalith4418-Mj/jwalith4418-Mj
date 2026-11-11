@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Jwalith — build, test, contribute</title><desc id="desc">Python tools, AI experiments and open-source contributions.</desc>
+<rect width="1200" height="360" rx="20" fill="#0b1220"/>
+<path d="M840 0V360M960 0V360M1080 0V360M720 90H1200M720 180H1200M720 270H1200" stroke="#19283a"/>
+<circle cx="1080" cy="90" r="8" fill="#67e8c3"/><circle cx="960" cy="180" r="8" fill="#67e8c3"/>
+<path d="M840 270L960 180L1080 90" stroke="#67e8c3" stroke-width="3" fill="none"/>
+<text x="62" y="68" fill="#67e8c3" font-family="monospace" font-size="17" letter-spacing="3">BUILD / TEST / CONTRIBUTE</text>
+<text x="58" y="166" fill="#f1f5f9" font-family="sans-serif" font-size="78" font-weight="700">Jwalith</text>
+<text x="62" y="220" fill="#b9c9da" font-family="sans-serif" font-size="25">Python tools. AI experiments. Open source.</text>
+<rect x="62" y="267" width="525" height="42" rx="8" fill="#142235"/>
+<text x="82" y="294" fill="#90a7bf" font-family="monospace" font-size="17">$ reproduce → implement → verify</text>
+</svg>
