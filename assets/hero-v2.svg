@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510"><defs><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#2a3039"/></pattern></defs>
+<rect width="1200" height="510" rx="22" fill="#11151b"/><rect x="710" width="490" height="510" fill="url(#dots)"/>
+<path d="M48 64H640" stroke="#363c45"/><text x="48" y="48" fill="#dcb779" font-family="monospace" font-size="17" letter-spacing="4">JWALITH / DEVELOPER WORKBENCH</text>
+<text x="43" y="173" fill="#f0ede7" font-family="Georgia,serif" font-size="108" letter-spacing="-5">Ideas into</text>
+<text x="43" y="282" fill="#f0ede7" font-family="Georgia,serif" font-size="108" letter-spacing="-5">working systems.</text>
+<text x="50" y="338" fill="#a6adb6" font-family="sans-serif" font-size="23">Applied AI. Useful tools. Work you can inspect.</text>
+<circle cx="1000" cy="166" r="117" stroke="#dcb779" stroke-width="1" fill="none"/><ellipse cx="1000" cy="166" rx="166" ry="48" transform="rotate(-38 1000 166)" stroke="#6d604b" fill="none"/>
+<circle cx="1070" cy="73" r="8" fill="#dcb779"/><text x="932" y="194" fill="#dcb779" font-family="Georgia,serif" font-style="italic" font-size="80">J.</text>
+<path d="M48 389H1150" stroke="#363c45"/>
+<text x="50" y="428" fill="#dcb779" font-family="monospace" font-size="15">01 / BUILD</text><text x="50" y="460" fill="#b7bdc5" font-family="sans-serif" font-size="18">Research to runnable prototypes</text>
+<text x="460" y="428" fill="#dcb779" font-family="monospace" font-size="15">02 / VERIFY</text><text x="460" y="460" fill="#b7bdc5" font-family="sans-serif" font-size="18">Evidence before claims</text>
+<text x="850" y="428" fill="#dcb779" font-family="monospace" font-size="15">03 / CONTRIBUTE</text><text x="850" y="460" fill="#b7bdc5" font-family="sans-serif" font-size="18">Useful fixes, upstream</text></svg>
