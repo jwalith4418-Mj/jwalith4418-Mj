@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-11T02:20:56.294029+00:00",
+  "checked_at": "2026-11-11T06:28:56.303433+00:00",
   "totals": {
     "submitted": 47,
-    "merged": 23,
-    "open": 20,
-    "closed_unmerged": 4,
+    "merged": 24,
+    "open": 18,
+    "closed_unmerged": 5,
     "distinct_repositories": 33,
     "known_policy_or_spam_rejections": 2,
     "submissions_without_known_policy_or_spam_rejections": 45
@@ -22,7 +22,7 @@
       "merged_at": null,
       "head": "c1dc52438007d0621cc5f38b0d04f0bf46fa3075",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -37,7 +37,7 @@
       "merged_at": null,
       "head": "0debeb64dfd83e789189493a31456bd2b2ac514f",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -52,7 +52,7 @@
       "merged_at": null,
       "head": "70411f0cbfbdf1a4d116ab141ca842054ceac08f",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -67,7 +67,7 @@
       "merged_at": "2026-10-29T01:22:30Z",
       "head": "b027b7b3421d1baa9487972d475b8752486a8f3d",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -82,7 +82,7 @@
       "merged_at": null,
       "head": "7e0bc444eae7811b2a41880ba5fa02a924961228",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -97,7 +97,7 @@
       "merged_at": "2026-10-30T20:50:05Z",
       "head": "104e93ab7cef22a9facddd0d202b5ad114fcbec0",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -112,7 +112,7 @@
       "merged_at": null,
       "head": "d5cf2f99e31629549dee01ec12537d29d61d8514",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -127,7 +127,7 @@
       "merged_at": "2026-10-30T19:25:24Z",
       "head": "aea4ca7a0a3a3291d58efc7a69561a6d161b02c9",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -142,7 +142,7 @@
       "merged_at": "2026-10-31T15:56:35Z",
       "head": "72dcd87c3bd81eb7edd6ccc159e113b92276bc7d",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -157,7 +157,7 @@
       "merged_at": "2026-10-31T15:59:35Z",
       "head": "544b2c4eb74be4349ffaec42873334c638371c96",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -172,7 +172,7 @@
       "merged_at": null,
       "head": "a9f72143359e52353967992d58f62c4a4a9e232e",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -187,7 +187,7 @@
       "merged_at": null,
       "head": "3dc20ee80957686e694b2f689a888160249d0b46",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -202,7 +202,7 @@
       "merged_at": "2026-11-01T16:13:35Z",
       "head": "5a731fb7dcd8d2ca4e9ff10a45e52e6525f36d78",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -229,7 +229,7 @@
       "merged_at": null,
       "head": "a011a9b6a0fd52e50cf13ce6b56846d2f43710ad",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -244,7 +244,7 @@
       "merged_at": "2026-11-02T00:18:25Z",
       "head": "6d2e5db4a67cfbe358f585ac0fc082edd7dddc00",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -259,7 +259,7 @@
       "merged_at": "2026-11-02T00:16:24Z",
       "head": "8cb8bc309ed3ff6c410c1f42af0a3d90c33f230b",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -274,7 +274,7 @@
       "merged_at": "2026-11-02T16:30:00Z",
       "head": "97332c4609d76547a60780370fc57e418c09ad0d",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -289,7 +289,7 @@
       "merged_at": null,
       "head": "396acef9d25812103b5884e6d27251dce7a1e589",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -304,7 +304,7 @@
       "merged_at": "2026-11-03T05:50:33Z",
       "head": "18c6e8b0175b0770261c3ca48240efaf725718f9",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -319,7 +319,7 @@
       "merged_at": "2026-11-03T05:50:39Z",
       "head": "01601fc3b83c9f33ce936c1d7b75cc26ef9b2e66",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -334,7 +334,7 @@
       "merged_at": "2026-11-03T14:48:30Z",
       "head": "ac2d3d17d33083f4cea25c0b8159f3189d3bddeb",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -349,7 +349,7 @@
       "merged_at": null,
       "head": "170b500c28cf1c3fc5f9bf3880dd6011f86a4962",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -364,7 +364,7 @@
       "merged_at": "2026-11-05T11:57:50Z",
       "head": "da8aab1286a7c37060071aaaa2ed576fdb16185b",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -379,7 +379,7 @@
       "merged_at": "2026-11-05T02:24:30Z",
       "head": "b4d8cd590901ce6a3c129aacb41fd514169317db",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -394,7 +394,7 @@
       "merged_at": null,
       "head": "0e1e8672f99e0c7a0ba9de2ba85afda8b86cfd5e",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -409,7 +409,7 @@
       "merged_at": "2026-11-05T02:25:51Z",
       "head": "b096498a5075c407352ba25efea220695d4fd827",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -424,7 +424,7 @@
       "merged_at": "2026-11-06T18:39:06Z",
       "head": "816ec22b696dc22999be457f8817531084a6f6b7",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -439,7 +439,7 @@
       "merged_at": null,
       "head": "c12babe485cb7f62b0a0290b094ec670ef8e94c8",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -454,7 +454,7 @@
       "merged_at": null,
       "head": "cb8a8b8b5052eed64f83649389f909f62f7a7e39",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -481,7 +481,7 @@
       "merged_at": null,
       "head": "a63ec75b74b5573ff362a9a5b20c22accb39fafc",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -496,7 +496,7 @@
       "merged_at": null,
       "head": "81d5b25926a5d9cc5c923b39a647afe9dd088fa3",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -511,7 +511,7 @@
       "merged_at": null,
       "head": "721388ffb78ff4c191cc455007501fc32fa164c8",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -526,7 +526,7 @@
       "merged_at": null,
       "head": "f0417ff35b86962371df31b868733370ab11f6a3",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -541,7 +541,7 @@
       "merged_at": null,
       "head": "f346fd8cf1b5d958b655d053bb7ed37cab59857c",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -556,7 +556,7 @@
       "merged_at": null,
       "head": "195b2728e5da8ccb9a028ce722cb279581792210",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -571,7 +571,7 @@
       "merged_at": "2026-11-09T01:34:49Z",
       "head": "ef4df90941f7b81e8803886e0cb9cb8a19a57ae3",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -586,7 +586,7 @@
       "merged_at": "2026-11-09T08:46:16Z",
       "head": "d7a036fec0a9a9066faf6d0439ec28244eb5a7ba",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -601,7 +601,7 @@
       "merged_at": "2026-11-09T03:31:44Z",
       "head": "08a6918bbfc87321ab696e8fbabc995e5fb86afe",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -616,7 +616,7 @@
       "merged_at": "2026-11-10T16:24:33Z",
       "head": "1c9315093b6c63925417f20951770647392af8a2",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -631,7 +631,7 @@
       "merged_at": null,
       "head": "7dd6e27d17802d2db88e4e1ac53d5bbc04f15810",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -646,7 +646,7 @@
       "merged_at": "2026-11-10T18:09:12Z",
       "head": "7e01ece7b40c34030f29fb5cebd153ae47b62f85",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -661,7 +661,7 @@
       "merged_at": "2026-11-10T06:16:08Z",
       "head": "21c8062366a0a0f91f240a0eba86b8f6017e586d",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -671,12 +671,12 @@
       "title": "docs: demonstrate SocketSpawn connections and cleanup",
       "submitted_date_ist": "2026-11-11",
       "created_at": "2026-11-11T01:59:52Z",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "merged_at": null,
       "head": "3afdf485cb1beee2876ee0259ad27a6ff69553b9",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -691,7 +691,7 @@
       "merged_at": "2026-11-11T02:20:49Z",
       "head": "80daa752395e30874294d7a68a9df2fbea677e90",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     },
     {
@@ -701,12 +701,12 @@
       "title": "Publish the most-wanted wheels for each target",
       "submitted_date_ist": "2026-11-11",
       "created_at": "2026-11-11T02:15:36Z",
-      "state": "open",
-      "merged": false,
-      "merged_at": null,
-      "head": "4b078463026a80fd5cf5576d8e89a5b1587e0401",
+      "state": "closed",
+      "merged": true,
+      "merged_at": "2026-11-11T02:25:26Z",
+      "head": "412efccb607275d9dbf93dd44bafceb4298d270f",
       "draft": false,
-      "verification": "2026-11-11T02:20:56.294029+00:00",
+      "verification": "2026-11-11T06:28:56.303433+00:00",
       "excluded_reason": null
     }
   ],
@@ -715,4 +715,3 @@
     "Original Oct25-Nov8 program totals remain historical; later submissions do not meet its expired deadline."
   ]
 }
-
