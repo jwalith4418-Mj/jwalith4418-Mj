@@ -4,8 +4,7 @@
 <text x="43" y="173" fill="#f0ede7" font-family="Georgia,serif" font-size="108" letter-spacing="-5">Ideas into</text>
 <text x="43" y="282" fill="#f0ede7" font-family="Georgia,serif" font-size="108" letter-spacing="-5">working systems.</text>
 <text x="50" y="338" fill="#a6adb6" font-family="sans-serif" font-size="23">Applied AI. Useful tools. Work you can inspect.</text>
-<circle cx="1000" cy="166" r="117" stroke="#dcb779" stroke-width="1" fill="none"/><ellipse cx="1000" cy="166" rx="166" ry="48" transform="rotate(-38 1000 166)" stroke="#6d604b" fill="none"/>
-<circle cx="1070" cy="73" r="8" fill="#dcb779"/><text x="932" y="194" fill="#dcb779" font-family="Georgia,serif" font-style="italic" font-size="80">J.</text>
+<g transform="translate(871 40)" role="img" aria-label="MJ monogram"><g fill="none" stroke-linecap="square" stroke-linejoin="bevel"><path d="M24 66V24H66M190 24H232V66M232 190V232H190M66 232H24V190" stroke="#6b604d" stroke-width="2"/><path d="M49 181V77L94 126L139 77V181" stroke="#f0ede7" stroke-width="15"/><path d="M168 77H209V153Q209 183 181 183Q160 183 160 165" stroke="#dcb779" stroke-width="15"/><path d="M49 207H209" stroke="#4b4438" stroke-width="2"/><path d="M49 207H94" stroke="#dcb779" stroke-width="3"/></g><rect x="224" y="16" width="16" height="16" fill="#dcb779"/></g>
 <path d="M48 389H1150" stroke="#363c45"/>
 <text x="50" y="428" fill="#dcb779" font-family="monospace" font-size="15">01 / BUILD</text><text x="50" y="460" fill="#b7bdc5" font-family="sans-serif" font-size="18">Research to runnable prototypes</text>
 <text x="460" y="428" fill="#dcb779" font-family="monospace" font-size="15">02 / VERIFY</text><text x="460" y="460" fill="#b7bdc5" font-family="sans-serif" font-size="18">Evidence before claims</text>
