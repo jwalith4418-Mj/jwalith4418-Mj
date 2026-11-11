@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170"><rect width="1200" height="170" rx="15" fill="#161b22"/><path d="M400 25V145M800 25V145" stroke="#343c46"/>
+<g fill="#dcb779" font-family="Georgia,serif" font-size="58"><text x="42" y="85">47</text><text x="442" y="85">24</text><text x="842" y="85">33</text></g>
+<g fill="#c1c7cf" font-family="monospace" font-size="16"><text x="42" y="125">UPSTREAM PRs SUBMITTED</text><text x="442" y="125">PRs MERGED</text><text x="842" y="125">REPOSITORIES</text></g></svg>
