@@ -17,16 +17,16 @@ Current interests: **developer tooling · applied AI · software verification ·
 
 ## Selected projects
 
-| Project | What I'm exploring | Start here |
+| Project | What it explores | Start here |
 | --- | --- | --- |
-| **[AURA](https://github.com/jwalith4418-Mj/aura)** | Local-first learning diagnosis with Bayesian gap hypotheses and transfer checks. The current demo uses simulated evidence. | [Run the demos](https://github.com/jwalith4418-Mj/aura#quick-start) |
-| **[Aletheia](https://github.com/jwalith4418-Mj/aletheia)** | Grounded answers, adaptive teaching, and reproducible offline evaluations. Learning-effect results are simulations. | [Architecture and evaluation](https://github.com/jwalith4418-Mj/aletheia#the-two-layers) |
-| **[CDIS](https://github.com/jwalith4418-Mj/cdis)** | Career evidence scorecards, replayable decisions, and human-approved resume workflows. | [Run locally](https://github.com/jwalith4418-Mj/cdis#quickstart) |
-| **[ClimaVerse](https://github.com/jwalith4418-Mj/climaverse)** | Climate-twin proof of concept with ConvLSTM prediction, walk-forward validation, and a FastAPI backend. Uses synthetic data. | [Source and limitations](https://github.com/jwalith4418-Mj/climaverse) |
-| **[OpenMythos](https://github.com/jwalith4418-Mj/openmythos)** | Recurrent-depth transformer research, architecture, and experiments. | [Research repository](https://github.com/jwalith4418-Mj/openmythos) |
 | **[Developer portfolio](https://github.com/jwalith4418-Mj/jwalith4418-Mj.github.io)** | A plain HTML/CSS/JavaScript portfolio with two themes and an arcade. | [Visit portfolio](https://jwalith-portfolio.vercel.app) |
+| **[AURA](https://github.com/jwalith4418-Mj/aura)** | Local-first learning diagnosis with Bayesian gap hypotheses and transfer checks. The current demo uses simulated evidence. | [Run the demos](https://github.com/jwalith4418-Mj/aura#quick-start) |
+| **[Blackbox](https://github.com/jwalith4418-Mj/blackbox-sequential-matching)** | Team research on sequential matching, clarification, and reciprocal introductions, with an interactive application. Evaluations use synthetic records. | [Application and architecture](https://github.com/jwalith4418-Mj/blackbox-sequential-matching/blob/main/frontend/README.md) |
+| **[CropDoctor](https://github.com/jwalith4418-Mj/crophackfinal6)** | Agricultural decision-support prototype exploring irrigation recommendations, uncertainty, voice interfaces, and crop-disease tooling. | [Setup and project overview](https://github.com/jwalith4418-Mj/crophackfinal6#quick-start) |
+| **[NEXUS Decision Twin](https://github.com/jwalith4418-Mj/nexus-decision-twin2)** | Strategy decision prototype connecting assumptions, evidence, scenario exploration, and outcome verification. | [Run the local demo](https://github.com/jwalith4418-Mj/nexus-decision-twin2#see-it-in-30-seconds-no-aws-no-keys) |
+| **[The Enigma Society website](https://github.com/jwalith4418-Mj/TES-Website)** | A React, Vite, and Tailwind community website. This repository is a fork of the society's project. | [Project overview and setup](https://github.com/jwalith4418-Mj/TES-Website#getting-started) |
 
-These are personal projects and research prototypes; their repositories document setup, evidence, and limitations.
+This showcase follows my pinned repositories in the same order. Project repositories describe their setup, evidence, collaborators, and limitations.
 
 ## Open-source contributions
 
